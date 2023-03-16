@@ -1,0 +1,19 @@
+{
+  "name": "mapc0mm3rs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/123Rasool/MapC0mm3Rs.git"
+  },
+  "author": "Dakhm3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123Rasool/MapC0mm3Rs/issues"
+  },
+  "homepage": "https://github.com/123Rasool/MapC0mm3Rs#readme"
+}
